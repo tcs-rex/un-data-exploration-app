@@ -9,7 +9,7 @@
 * Operate on data in Pandas and NumPy
 * Display data using Matplotlib
 
-## Date Sources
+## Data Sources
 * Cell Phones (per 100 people), United Nations, June 2021, [Online] Available: https://www.gapminder.org/data/
 * Cell Phones (total), United Nations, June 2021, [Online] Available: https://www.gapminder.org/data/
 * Individuals using the Internet (% of population), United Nations, June 2021, [Online] Available: https://www.gapminder.org/data/
